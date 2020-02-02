@@ -6,6 +6,6 @@ import java.util.*
 
 class UIController : Initializable {
     override fun initialize(location: URL?, resources: ResourceBundle?) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+//        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 }
